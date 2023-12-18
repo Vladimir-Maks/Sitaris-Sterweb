@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+    <book>
+        <title>War and Peace[</title>
+        <author>Lev Tolstoy</author>
+        <date>1836</date>
+        <publisher>The Russian Messenger</publisher>
+        <cost>8</cost>
+        <count>9300</count>
+    </book>
+    <book>
+        <title>Harry Potter and the Chamber of Secrets</title>
+        <author>J.K. Rowling</author>
+        <date>1998</date>
+        <publisher>Scholastic Inc</publisher>
+        <cost>30</cost>
+        <count>8500</count>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <date>1949</date>
+        <publisher>Secker and Warburg</publisher>
+        <cost>25</cost>
+        <count>13000</count>
+    </book>
+    <book>
+        <title>The Hunger Games</title>
+        <author>Suzanne Collins</author>
+        <date>2008</date>
+        <publisher>Scholastic Inc</publisher>
+        <cost>35</cost>
+        <count>7700</count>
+    </book>
+</books>
